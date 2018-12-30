@@ -1,15 +1,20 @@
 <!-- Besmei Taala -->
 <!-- Amir Hossein Karami -->
 <!-- Learning HTML5 -->
-<!-- Up to Section: https://www.w3schools.com/html/html_headings.asp -->
+<!-- Up to Section: https://www.w3schools.com/html/html_images.asp -->
 
 <!DOCTYPE html>
 <html lang="en"; lang="fa">
+
 <head>
+    <!-- For Meta Information -->
     <meta charset="UTF-8">
     <title>Title of Web-Page</title>
+    <link rel="stylesheet" href="StyleSheet1.css">
 </head>
-<body>
+
+<body style="background-color: wheat">
+    <p style="text-align: center; font-size: xx-large; color: black; font-family: 'B Badr'">بسم الله الرحمن الرحیم</p>
     <h1>Our Deep Learning based Technologies</h1>
     <h2>This is heading 2</h2>
     <h3>This is heading 3</h3>
@@ -45,13 +50,13 @@
         <li>List Element3</li>
     </ol>
     <br>
-    <p style="align-content: center; alignment: center; align-items: center; align-self: center;
-    alignment-baseline: center; font-size: xx-large; color: black; font-family: 'B Badr'">یک عنوان نمونه فارسی</p>
+    <p style="text-align: center; font-size: xx-large; color: black; font-family: 'B Badr'">یک نمونه عنوان فارسی</p>
     <br>
     <img src="https://cs.stanford.edu/people/karpathy/me2.jpg" title="Karpathy's Image" width="100" height="100" alt="Image of Andrej Karpathy">
     <br>
     <p style="color:#98ff38; font-size: x-large; font-family: 'Comic Sans MS'">New Paragraph with Green Text</p>
     <br>
+    <!-- Last Commit at: 1397/9/5 -->
     <h1 style="font-size: 60px">Heading1 with Customised Font-Size</h1>
     <hr>
     <p style="text-align: center"><b>New Section of Web-Page with 'hr' command</b></p>
@@ -64,12 +69,71 @@
     <!-- HTML Styles: -->
     <p style="text-align: center; font-family: Courier; font-size: 200%"><b>Welcome to HTML Styles</b></p>
     <hr>
+    <!-- New Commits at: 1397/9/13 -->
     <!-- HTML Text Formatting: -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/255px-HTML5_logo_and_wordmark.svg.png"
-         alt="Text Formatting Logo" width="100" height="100" style="alignment: center" class="center">
-    <p style="text-align: center; font-family: Courier; font-size: 200%"><b>Welcome to HTML Text Formatting</b></p>
+    <p align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/255px-HTML5_logo_and_wordmark.svg.png"
+             alt="Text Formatting Logo" width="100" height="100">
+    </p>
+    <p style="text-align: center; font-family: Courier; font-size: 200%" id="BookMark1"><b>Welcome to HTML Text Formatting</b></p>
     <br>
-    <p><b>How Centered Image????</b></p>
+    <p style="text-align: center"><b>A Bold Text</b></p>
+    <p style="text-align: center"><strong>A Strong Text</strong></p>
+    <p style="text-align: center"><i>An Italic Text</i></p>
+    <p style="text-align: center"><em>An Emphasized Text</em></p>
+    <p style="text-align: center"><small>A Small Text</small></p>
+    <p style="text-align: center"><mark>A Marked (or Highlighted) Text</mark></p>
+    <p style="text-align: center"><del>A Deleted (or Removed) Text</del></p>
+    <p style="text-align: center"><ins>An Inserted (or Added) Text</ins></p>
+    <p style="text-align: center">This is a <sub>sub-scripted</sub> text.</p>
+    <p style="text-align: center">This is a <sup>super-scripted</sup> text.</p>
+    <hr>
+    <!-- HTML Quotation and Citation Elements: -->
+    <p style="text-align: center; font-family: Courier; font-size: 200%"><b>Welcome to HTML Quotation and Citation </b></p>
+    <p style="text-align: center">This is a <q>short quotation.</q></p>
+    <p style="text-align: center">This a Block Quotation Example: </p>
+    <blockquote>Example of Block Quotation Text.</blockquote>
+    <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+    <address style="text-align: center">
+        Written by Amir Hossein Karami.<br>
+        Visit me at:<br>
+        https://github.com/ahkarami<br>
+        Box 564, Disneyland<br>
+        USA
+    </address>
+    <p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+    <bdo dir="rtl">This text will be written from right to left</bdo>
+    <hr>
+    <!-- HTML Colors: -->
+    <p style="text-align: center; font-family: Courier; font-size: 200%"><b>Welcome to HTML Colors </b></p>
+    <p style="color: brown"> Sample Brown Text </p>
+    <h1 style="background-color: DodgerBlue; text-align: center; color: white; font-family: FreeSans">Text with Background Color</h1>
+    <p style="background-color: Tomato;">Paragraph with Background Color</p>
+    <p style="border:2px solid Violet; text-align: center">Text with Border Color</p>
+    <!-- For reading other important notes about color, you can refer to the main link -->
+    <hr>
+    <!-- HTML Styles - CSS: -->
+    <p id="p01">Welcome to HTML Styles - CSS</p>
+    <p class="error"> An Error Style!! </p>
+    <hr>
+    <!-- HTML Links: -->
+    <p id="p01">Welcome to HTML Links</p>
+    <a href="https://www.w3schools.com/html/">Visit W3School HTML Tutorial</a>
+    <br>
+    <a href="HTML2.html" target="_blank">Local Link</a>
+    <br>
+    <p align="center">
+        <a href="https://www.google.com/" target="_blank" title="Google Web Site (Tooltip)">
+            <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google Site"
+                 style="width:80px;height:42px;border:0;">
+        </a>
+    </p>
+    <a href="#BookMark1">Jump to Bookmark 1</a>
+    <br>
+    <hr>
+    <!-- HTML Images: -->
+    <p id="p01" id="BookMark2">Welcome to HTML Images</p> <!-- Can we have 2 ids for an element?-->
+
 </body>
 </html>
 
