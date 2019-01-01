@@ -1,0 +1,22 @@
+body {
+    background-color: wheat;
+}
+h1 {
+    color: black;
+    font-family: Dialog;
+}
+p {
+    color: black;
+}
+#p01 {
+    color: black;
+    text-align: center;
+    font-family: Courier;
+    font-size: 200%;
+    font-weight: bold;
+}
+p.error {
+    color: red;
+    font-size: 200%;
+    font-weight: bold;
+}
