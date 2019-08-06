@@ -12,3 +12,5 @@ This repository shows my history of HTML learning.
 
 ## Free Website Creator Tool:
 - [Top 10 Free Online Portfolio Websites](https://medium.com/@tristaljing/top-10-free-online-portfolio-websites-to-create-perfect-ux-ui-design-portfolios-7d99888ab9)  
+- [How To Host Your Personal Website for Free](https://medium.com/better-programming/how-to-host-your-personal-website-for-free-3101c4ab2e49)  
+
