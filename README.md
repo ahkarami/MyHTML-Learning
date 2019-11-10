@@ -15,6 +15,7 @@ This repository shows my history of HTML learning.
 - [Streamlit - GitHub](https://github.com/streamlit/streamlit)  
 
 ## Web Programming (Front-end Web Programming) Books:
+- [The best books for web development beginners](https://coder-coder.com/best-web-development-books/)  
 - [Eloquent JavaScript](https://eloquentjavascript.net/)  
 
 ## Free Website Creator Tool:
