@@ -17,6 +17,7 @@ This repository shows my history of HTML learning.
 ## Web Programming (Front-end Web Programming) Books:
 - [The best books for web development beginners](https://coder-coder.com/best-web-development-books/)  
 - [Eloquent JavaScript](https://eloquentjavascript.net/)  
+- [Web Design with HTML, CSS, JavaScript and jQuery](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442)
 
 ## Free Website Creator Tool:
 - [Top 10 Free Online Portfolio Websites](https://medium.com/@tristaljing/top-10-free-online-portfolio-websites-to-create-perfect-ux-ui-design-portfolios-7d99888ab9)  
