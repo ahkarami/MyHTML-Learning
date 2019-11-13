@@ -19,6 +19,7 @@ This repository shows my history of HTML learning.
 - [Eloquent JavaScript](https://eloquentjavascript.net/)  
 - [Web Design with HTML, CSS, JavaScript and jQuery](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442)  
 - [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics](https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1449319270)  
+- [Front-End Web Development: The Big Nerd Ranch Guide (Big Nerd Ranch Guides)](https://www.amazon.com/Front-End-Web-Development-Ranch-Guides/dp/0134433947)  
 
 ## Free Website Creator Tool:
 - [Top 10 Free Online Portfolio Websites](https://medium.com/@tristaljing/top-10-free-online-portfolio-websites-to-create-perfect-ux-ui-design-portfolios-7d99888ab9)  
