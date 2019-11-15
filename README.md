@@ -13,6 +13,7 @@ This repository shows my history of HTML learning.
 - [Building Machine Learning Apps with Streamlit](https://towardsdatascience.com/building-machine-learning-apps-with-streamlit-667cef3ff509)  
 - [Streamlit](https://streamlit.io/) [_The fastest way to build custom ML tools_]  
 - [Streamlit - GitHub](https://github.com/streamlit/streamlit)  
+- [Deployment of Web App + ML Model + APIs — Tutorial](https://towardsdatascience.com/simple-deployment-of-web-app-ml-model-apis-tutorial-2ece8e66d98c)  
 
 ## Web Programming (Front-end Web Programming) Books:
 - [The best books for web development beginners](https://coder-coder.com/best-web-development-books/)  
