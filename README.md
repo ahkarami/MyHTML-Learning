@@ -30,3 +30,4 @@ This repository shows my history of HTML learning.
 
 ## React Learning:
 - [React Native in Action - Manning Book](https://www.manning.com/books/react-native-in-action)  
+- [React Quickly](https://www.manning.com/books/react-quickly)  
