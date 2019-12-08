@@ -31,3 +31,5 @@ This repository shows my history of HTML learning.
 ## React Learning:
 - [React Native in Action - Manning Book](https://www.manning.com/books/react-native-in-action)  
 - [React Quickly](https://www.manning.com/books/react-quickly)  
+- [How to learn React.js in 2019](https://www.robinwieruch.de/learn-react-js)  
+
