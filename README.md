@@ -15,6 +15,7 @@ This repository shows my history of HTML learning.
 - [Streamlit - GitHub](https://github.com/streamlit/streamlit)  
 - [Deployment of Web App + ML Model + APIs — Tutorial](https://towardsdatascience.com/simple-deployment-of-web-app-ml-model-apis-tutorial-2ece8e66d98c)  
 - [Text Shadow CSS Generator](https://html-css-js.com/css/generator/text-shadow/)  
+- [html5-editor](https://html5-editor.net/#)  
 - [Online HTML Editor](https://html-online.com/editor/)  
 
 ## Web Programming (Front-end Web Programming) Books:
