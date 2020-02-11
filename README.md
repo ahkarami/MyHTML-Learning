@@ -31,7 +31,9 @@ This repository shows my history of HTML learning.
 - [How to create a website for free with GitHub Pages](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)  
 - [Free HTML & Bootstrap Website Templates](https://colorlib.com/wp/templates/)  
 - [A Nice GitHub.io Sample](https://caihaoye16.github.io/)  
-- [Another Nice GitHub.io Sample](https://utkuozbulak.github.io/)  
+- [A Nice GitHub.io Sample](https://utkuozbulak.github.io/)  
+- [A Nice GitHub.io Sample](https://minaghadimi.github.io/)  
+- [A Nice GitHub.io Sample](https://sinaazar.github.io/)  
 
 ## React Learning:
 - [React Native in Action - Manning Book](https://www.manning.com/books/react-native-in-action)  
